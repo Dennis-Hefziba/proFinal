@@ -1,0 +1,12 @@
+Fecha,Id,Categoria,Producto,Precio,Cliente,Departamento
+13/4/2024,1,Tecnologia,Laptop Dell,550,Alejandro Amaya,Electronica
+13/4/2024,2,Tecnologia,Nintendo Switch,400,Dennis Martinez,Electronica
+11/3/2024,3,Escuela,Cuaderno raya,2.00,Julio Guevara,Papeleria
+10/3/2024,4,Escuela,Lapiz num2,1.00,Alejandro Amaya,Papeleria
+22/2/2024,5,Articulos,Alexa,150,Mario Bernal,Electronica
+20/2/2024,6,Articulos,Google Assisant,100,Luis Sanchez,Electronica
+17/1/2024,7,Diseno,Lapiz Grafico,80,Menchita coto,Diseno
+19/1/2024,8,Diseno,Macbook pro,790,Alejandro Amaya,Diseno
+13/4/2024,9,Almacenamiento,Disco duro,50,Luis Sanchez,Electronica
+13/4/2024,10,Almacenamiento,Disco SSD,90,Julio Guevara,Electronica
+
